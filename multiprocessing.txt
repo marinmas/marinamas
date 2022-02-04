@@ -1,0 +1,1018 @@
+Script started on Fri Feb  4 11:21:53 2022
+[?1034hbash-3.2$ git add programa1.py
+bash-3.2$ python3 prograa[Kma1.py
+fin
+hola 0
+hola 0
+hola 1
+hola 1
+hola 2
+hola 2
+hola 3
+hola 3
+hola 4
+hola 4
+bash-3.2$ git commit -m "programa1"
+[main 4a70095] programa1
+ Committer: Francisco Mas <framas@MBPdeFrancisco2.home>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 50 insertions(+)
+ create mode 100644 programa1.py
+ create mode 100644 programa4.py
+bash-3.2$ git push
+Enter passphrase for key '/Users/framas/.ssh/id_rsa': 
+Counting objects: 4, done.
+Delta compression using up to 4 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 988 bytes | 988.00 KiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To github.com:marinmas/marinamas1.git
+   b679167..4a70095  main -> main
+bash-3.2$ git add programa2.py
+bash-3.2$ git [K[K[K[Kpython3.[K programa2.py
+fin
+hola soy ana 2 vuelta 0
+hola soy ana 0 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 7 vuelta 0
+hola soy ana 8 vuelta 0
+hola soy ana 9 vuelta 0
+hola soy ana 1 vuelta 1
+adios
+hola soy ana 7 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 4 vuelta 1
+hola soy ana 0 vuelta 1
+hola soy ana 4 vuelta 2
+hola soy ana 9 vuelta 1
+hola soy ana 7 vuelta 2
+hola soy ana 5 vuelta 1
+hola soy ana 6 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 1 vuelta 2
+hola soy ana 9 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 0 vuelta 2
+hola soy ana 8 vuelta 2
+hola soy ana 6 vuelta 2
+hola soy ana 5 vuelta 2
+bash-3.2$ git commit -m "programa2.p[K[K"
+[main 46f6128] programa2
+ Committer: Francisco Mas <framas@MBPdeFrancisco2.home>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 31 insertions(+)
+ create mode 100644 programa2.py
+bash-3.2$ git push
+Enter passphrase for key '/Users/framas/.ssh/id_rsa': 
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 586 bytes | 586.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:marinmas/marinamas1.git
+   4a70095..46f6128  main -> main
+bash-3.2$ git add python3.py
+fatal: pathspec 'python3.py' did not match any files
+bash-3.2$ git af[Kdd programa3.py
+bash-3.2$ python3 pror[Kgrama3.py
+fin
+adios
+hola soy ana_1, 98015, True, vuelta 0
+hola soy ana_1, 98015, True, vuelta 1
+hola soy ana_1, 98015, True, vuelta 2
+hola soy ana_1, 98015, True, vuelta 3
+hola soy ana_1, 98015, True, vuelta 4
+hola soy ana_0, 98014, True, vuelta 0
+hola soy ana_0, 98014, True, vuelta 1
+hola soy ana_0, 98014, True, vuelta 2
+hola soy ana_0, 98014, True, vuelta 3
+hola soy ana_0, 98014, True, vuelta 4
+hola soy ana_2, 98016, True, vuelta 0
+hola soy ana_2, 98016, True, vuelta 1
+hola soy ana_2, 98016, True, vuelta 2
+hola soy ana_2, 98016, True, vuelta 3
+hola soy ana_2, 98016, True, vuelta 4
+bash-3.2$ git commit -m "programa3"
+[main 109d7f7] programa3
+ Committer: Francisco Mas <framas@MBPdeFrancisco2.home>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 30 insertions(+)
+ create mode 100644 programa3.py
+bash-3.2$ git push 
+Enter passphrase for key '/Users/framas/.ssh/id_rsa': 
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 615 bytes | 615.00 KiB/s, done.
+Total 3 (delta 1), reused 1 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:marinmas/marinamas1.git
+   46f6128..109d7f7  main -> main
+bash-3.2$ exit
+
+Script done on Fri Feb  4 11:37:41 2022
+Script started on Fri Feb  4 11:38:23 2022
+[?1034hbash-3.2$ git add programa5.p[K[K[K4.py
+bash-3.2$ git commi[K[K[K[K[K[K[K[K[Kgit commit -m "programa3[K4.py[K[K[K"
+[main c606d44] programa4
+ Committer: Francisco Mas <framas@MBPdeFrancisco2.home>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+bash-3.2$ git push 
+Enter passphrase for key '/Users/framas/.ssh/id_rsa': 
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 303 bytes | 303.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To github.com:marinmas/marinamas1.git
+   109d7f7..c606d44  main -> main
+bash-3.2$ git add programa5.py
+bash-3.2$ git [K[K[K[Kpython3 programa4.py¡¡[K[K[K[K[K[K5.py
+Valor inicial del contador 0
+hola soy 98143, vuelta: 0, contador: 1
+hola soy 98143, vuelta: 1, contador: 2
+hola soy 98143, vuelta: 2, contador: 3
+hola soy 98143, vuelta: 3, contador: 4
+hola soy 98143, vuelta: 4, contador: 5
+hola soy 98143, vuelta: 5, contador: 6
+hola soy 98143, vuelta: 6, contador: 7
+hola soy 98143, vuelta: 7, contador: 8
+hola soy 98143, vuelta: 8, contador: 9
+hola soy 98143, vuelta: 9, contador: 10
+hola soy 98143, vuelta: 10, contador: 11
+hola soy 98143, vuelta: 11, contador: 12
+hola soy 98143, vuelta: 12, contador: 13
+hola soy 98143, vuelta: 13, contador: 14
+hola soy 98143, vuelta: 14, contador: 15
+hola soy 98143, vuelta: 15, contador: 16
+hola soy 98143, vuelta: 16, contador: 17
+hola soy 98143, vuelta: 17, contador: 18
+hola soy 98143, vuelta: 18, contador: 19
+hola soy 98143, vuelta: 19, contador: 20
+hola soy 98143, vuelta: 20, contador: 21
+hola soy 98143, vuelta: 21, contador: 22
+hola soy 98143, vuelta: 22, contador: 23
+hola soy 98143, vuelta: 23, contador: 24
+hola soy 98143, vuelta: 24, contador: 25
+hola soy 98143, vuelta: 25, contador: 26
+hola soy 98143, vuelta: 26, contador: 27
+hola soy 98143, vuelta: 27, contador: 28
+hola soy 98143, vuelta: 28, contador: 29
+hola soy 98143, vuelta: 29, contador: 30
+hola soy 98143, vuelta: 30, contador: 31
+hola soy 98143, vuelta: 31, contador: 32
+hola soy 98143, vuelta: 32, contador: 33
+hola soy 98143, vuelta: 33, contador: 34
+hola soy 98143, vuelta: 34, contador: 35
+hola soy 98143, vuelta: 35, contador: 36
+hola soy 98143, vuelta: 36, contador: 37
+hola soy 98143, vuelta: 37, contador: 38
+hola soy 98143, vuelta: 38, contador: 39
+hola soy 98143, vuelta: 39, contador: 40
+hola soy 98143, vuelta: 40, contador: 41
+hola soy 98143, vuelta: 41, contador: 42
+hola soy 98143, vuelta: 42, contador: 43
+hola soy 98143, vuelta: 43, contador: 44
+hola soy 98143, vuelta: 44, contador: 45
+hola soy 98143, vuelta: 45, contador: 46
+hola soy 98143, vuelta: 46, contador: 47
+hola soy 98143, vuelta: 47, contador: 48
+hola soy 98143, vuelta: 48, contador: 49
+hola soy 98143, vuelta: 49, contador: 50
+hola soy 98143, vuelta: 50, contador: 51
+hola soy 98143, vuelta: 51, contador: 52
+hola soy 98143, vuelta: 52, contador: 53
+hola soy 98143, vuelta: 53, contador: 54
+hola soy 98143, vuelta: 54, contador: 55
+hola soy 98143, vuelta: 55, contador: 56
+hola soy 98143, vuelta: 56, contador: 57
+hola soy 98143, vuelta: 57, contador: 58
+hola soy 98143, vuelta: 58, contador: 59
+hola soy 98143, vuelta: 59, contador: 60
+hola soy 98143, vuelta: 60, contador: 61
+hola soy 98143, vuelta: 61, contador: 62
+hola soy 98143, vuelta: 62, contador: 63
+hola soy 98143, vuelta: 63, contador: 64
+hola soy 98143, vuelta: 64, contador: 65
+hola soy 98143, vuelta: 65, contador: 66
+hola soy 98143, vuelta: 66, contador: 67
+hola soy 98143, vuelta: 67, contador: 68
+hola soy 98143, vuelta: 68, contador: 69
+hola soy 98143, vuelta: 69, contador: 70
+hola soy 98143, vuelta: 70, contador: 71
+hola soy 98143, vuelta: 71, contador: 72
+hola soy 98143, vuelta: 72, contador: 73
+hola soy 98143, vuelta: 73, contador: 74
+hola soy 98143, vuelta: 74, contador: 75
+hola soy 98143, vuelta: 75, contador: 76
+hola soy 98143, vuelta: 76, contador: 77
+hola soy 98143, vuelta: 77, contador: 78
+hola soy 98143, vuelta: 78, contador: 79
+hola soy 98143, vuelta: 79, contador: 80
+hola soy 98143, vuelta: 80, contador: 81
+hola soy 98143, vuelta: 81, contador: 82
+hola soy 98143, vuelta: 82, contador: 83
+hola soy 98143, vuelta: 83, contador: 84
+hola soy 98143, vuelta: 84, contador: 85
+hola soy 98143, vuelta: 85, contador: 86
+hola soy 98143, vuelta: 86, contador: 87
+hola soy 98143, vuelta: 87, contador: 88
+hola soy 98143, vuelta: 88, contador: 89
+hola soy 98143, vuelta: 89, contador: 90
+hola soy 98143, vuelta: 90, contador: 91
+hola soy 98143, vuelta: 91, contador: 92
+hola soy 98143, vuelta: 92, contador: 93
+hola soy 98143, vuelta: 93, contador: 94
+hola soy 98143, vuelta: 94, contador: 95
+hola soy 98143, vuelta: 95, contador: 96
+hola soy 98143, vuelta: 96, contador: 97
+hola soy 98143, vuelta: 97, contador: 98
+hola soy 98143, vuelta: 98, contador: 99
+hola soy 98143, vuelta: 99, contador: 100
+hola soy 98141, vuelta: 0, contador: 101
+hola soy 98141, vuelta: 1, contador: 102
+hola soy 98141, vuelta: 2, contador: 103
+hola soy 98141, vuelta: 3, contador: 104
+hola soy 98141, vuelta: 4, contador: 105
+hola soy 98141, vuelta: 5, contador: 106
+hola soy 98141, vuelta: 6, contador: 107
+hola soy 98141, vuelta: 7, contador: 108
+hola soy 98141, vuelta: 8, contador: 109
+hola soy 98141, vuelta: 9, contador: 110
+hola soy 98141, vuelta: 10, contador: 111
+hola soy 98141, vuelta: 11, contador: 112
+hola soy 98141, vuelta: 12, contador: 113
+hola soy 98141, vuelta: 13, contador: 114
+hola soy 98141, vuelta: 14, contador: 115
+hola soy 98141, vuelta: 15, contador: 116
+hola soy 98141, vuelta: 16, contador: 117
+hola soy 98141, vuelta: 17, contador: 118
+hola soy 98141, vuelta: 18, contador: 119
+hola soy 98141, vuelta: 19, contador: 120
+hola soy 98141, vuelta: 20, contador: 121
+hola soy 98141, vuelta: 21, contador: 122
+hola soy 98141, vuelta: 22, contador: 123
+hola soy 98141, vuelta: 23, contador: 124
+hola soy 98141, vuelta: 24, contador: 125
+hola soy 98141, vuelta: 25, contador: 126
+hola soy 98141, vuelta: 26, contador: 127
+hola soy 98141, vuelta: 27, contador: 128
+hola soy 98141, vuelta: 28, contador: 129
+hola soy 98141, vuelta: 29, contador: 130
+hola soy 98141, vuelta: 30, contador: 131
+hola soy 98141, vuelta: 31, contador: 132
+hola soy 98141, vuelta: 32, contador: 133
+hola soy 98141, vuelta: 33, contador: 134
+hola soy 98141, vuelta: 34, contador: 135
+hola soy 98141, vuelta: 35, contador: 136
+hola soy 98141, vuelta: 36, contador: 137
+hola soy 98141, vuelta: 37, contador: 138
+hola soy 98141, vuelta: 38, contador: 139
+hola soy 98141, vuelta: 39, contador: 140
+hola soy 98141, vuelta: 40, contador: 141
+hola soy 98141, vuelta: 41, contador: 142
+hola soy 98141, vuelta: 42, contador: 143
+hola soy 98141, vuelta: 43, contador: 144
+hola soy 98141, vuelta: 44, contador: 145
+hola soy 98141, vuelta: 45, contador: 146
+hola soy 98141, vuelta: 46, contador: 147
+hola soy 98141, vuelta: 47, contador: 148
+hola soy 98141, vuelta: 48, contador: 149
+hola soy 98141, vuelta: 49, contador: 150
+hola soy 98141, vuelta: 50, contador: 151
+hola soy 98141, vuelta: 51, contador: 152
+hola soy 98141, vuelta: 52, contador: 153
+hola soy 98141, vuelta: 53, contador: 154
+hola soy 98141, vuelta: 54, contador: 155
+hola soy 98141, vuelta: 55, contador: 156
+hola soy 98141, vuelta: 56, contador: 157
+hola soy 98141, vuelta: 57, contador: 158
+hola soy 98141, vuelta: 58, contador: 159
+hola soy 98141, vuelta: 59, contador: 160
+hola soy 98141, vuelta: 60, contador: 161
+hola soy 98141, vuelta: 61, contador: 162
+hola soy 98141, vuelta: 62, contador: 163
+hola soy 98141, vuelta: 63, contador: 164
+hola soy 98141, vuelta: 64, contador: 165
+hola soy 98141, vuelta: 65, contador: 166
+hola soy 98141, vuelta: 66, contador: 167
+hola soy 98141, vuelta: 67, contador: 168
+hola soy 98141, vuelta: 68, contador: 169
+hola soy 98141, vuelta: 69, contador: 170
+hola soy 98141, vuelta: 70, contador: 171
+hola soy 98141, vuelta: 71, contador: 172
+hola soy 98141, vuelta: 72, contador: 173
+hola soy 98141, vuelta: 73, contador: 174
+hola soy 98141, vuelta: 74, contador: 175
+hola soy 98141, vuelta: 75, contador: 176
+hola soy 98141, vuelta: 76, contador: 177
+hola soy 98141, vuelta: 77, contador: 178
+hola soy 98141, vuelta: 78, contador: 179
+hola soy 98141, vuelta: 79, contador: 180
+hola soy 98141, vuelta: 80, contador: 181
+hola soy 98141, vuelta: 81, contador: 182
+hola soy 98141, vuelta: 82, contador: 183
+hola soy 98141, vuelta: 83, contador: 184
+hola soy 98141, vuelta: 84, contador: 185
+hola soy 98141, vuelta: 85, contador: 186
+hola soy 98141, vuelta: 86, contador: 187
+hola soy 98141, vuelta: 87, contador: 188
+hola soy 98141, vuelta: 88, contador: 189
+hola soy 98141, vuelta: 89, contador: 190
+hola soy 98141, vuelta: 90, contador: 191
+hola soy 98141, vuelta: 91, contador: 192
+hola soy 98141, vuelta: 92, contador: 193
+hola soy 98141, vuelta: 93, contador: 194
+hola soy 98141, vuelta: 94, contador: 195
+hola soy 98141, vuelta: 95, contador: 196
+hola soy 98141, vuelta: 96, contador: 197
+hola soy 98141, vuelta: 97, contador: 198
+hola soy 98141, vuelta: 98, contador: 199
+hola soy 98141, vuelta: 99, contador: 200
+hola soy 98142, vuelta: 0, contador: 201
+hola soy 98142, vuelta: 1, contador: 202
+hola soy 98142, vuelta: 2, contador: 203
+hola soy 98142, vuelta: 3, contador: 204
+hola soy 98142, vuelta: 4, contador: 205
+hola soy 98142, vuelta: 5, contador: 206
+hola soy 98142, vuelta: 6, contador: 207
+hola soy 98142, vuelta: 7, contador: 208
+hola soy 98142, vuelta: 8, contador: 209
+hola soy 98142, vuelta: 9, contador: 210
+hola soy 98142, vuelta: 10, contador: 211
+hola soy 98142, vuelta: 11, contador: 212
+hola soy 98142, vuelta: 12, contador: 213
+hola soy 98142, vuelta: 13, contador: 214
+hola soy 98142, vuelta: 14, contador: 215
+hola soy 98142, vuelta: 15, contador: 216
+hola soy 98142, vuelta: 16, contador: 217
+hola soy 98142, vuelta: 17, contador: 218
+hola soy 98142, vuelta: 18, contador: 219
+hola soy 98142, vuelta: 19, contador: 220
+hola soy 98142, vuelta: 20, contador: 221
+hola soy 98142, vuelta: 21, contador: 222
+hola soy 98142, vuelta: 22, contador: 223
+hola soy 98142, vuelta: 23, contador: 224
+hola soy 98142, vuelta: 24, contador: 225
+hola soy 98142, vuelta: 25, contador: 226
+hola soy 98142, vuelta: 26, contador: 227
+hola soy 98142, vuelta: 27, contador: 228
+hola soy 98142, vuelta: 28, contador: 229
+hola soy 98142, vuelta: 29, contador: 230
+hola soy 98142, vuelta: 30, contador: 231
+hola soy 98142, vuelta: 31, contador: 232
+hola soy 98142, vuelta: 32, contador: 233
+hola soy 98142, vuelta: 33, contador: 234
+hola soy 98142, vuelta: 34, contador: 235
+hola soy 98142, vuelta: 35, contador: 236
+hola soy 98142, vuelta: 36, contador: 237
+hola soy 98142, vuelta: 37, contador: 238
+hola soy 98142, vuelta: 38, contador: 239
+hola soy 98142, vuelta: 39, contador: 240
+hola soy 98142, vuelta: 40, contador: 241
+hola soy 98142, vuelta: 41, contador: 242
+hola soy 98142, vuelta: 42, contador: 243
+hola soy 98142, vuelta: 43, contador: 244
+hola soy 98142, vuelta: 44, contador: 245
+hola soy 98142, vuelta: 45, contador: 246
+hola soy 98142, vuelta: 46, contador: 247
+hola soy 98142, vuelta: 47, contador: 248
+hola soy 98142, vuelta: 48, contador: 249
+hola soy 98142, vuelta: 49, contador: 250
+hola soy 98142, vuelta: 50, contador: 251
+hola soy 98142, vuelta: 51, contador: 252
+hola soy 98142, vuelta: 52, contador: 253
+hola soy 98142, vuelta: 53, contador: 254
+hola soy 98142, vuelta: 54, contador: 255
+hola soy 98142, vuelta: 55, contador: 256
+hola soy 98142, vuelta: 56, contador: 257
+hola soy 98142, vuelta: 57, contador: 258
+hola soy 98142, vuelta: 58, contador: 259
+hola soy 98142, vuelta: 59, contador: 260
+hola soy 98142, vuelta: 60, contador: 261
+hola soy 98142, vuelta: 61, contador: 262
+hola soy 98142, vuelta: 62, contador: 263
+hola soy 98142, vuelta: 63, contador: 264
+hola soy 98142, vuelta: 64, contador: 265
+hola soy 98142, vuelta: 65, contador: 266
+hola soy 98142, vuelta: 66, contador: 267
+hola soy 98142, vuelta: 67, contador: 268
+hola soy 98142, vuelta: 68, contador: 269
+hola soy 98142, vuelta: 69, contador: 270
+hola soy 98142, vuelta: 70, contador: 271
+hola soy 98142, vuelta: 71, contador: 272
+hola soy 98142, vuelta: 72, contador: 273
+hola soy 98142, vuelta: 73, contador: 274
+hola soy 98142, vuelta: 74, contador: 275
+hola soy 98142, vuelta: 75, contador: 276
+hola soy 98142, vuelta: 76, contador: 277
+hola soy 98142, vuelta: 77, contador: 278
+hola soy 98142, vuelta: 78, contador: 279
+hola soy 98142, vuelta: 79, contador: 280
+hola soy 98142, vuelta: 80, contador: 281
+hola soy 98142, vuelta: 81, contador: 282
+hola soy 98142, vuelta: 82, contador: 283
+hola soy 98142, vuelta: 83, contador: 284
+hola soy 98142, vuelta: 84, contador: 285
+hola soy 98142, vuelta: 85, contador: 286
+hola soy 98142, vuelta: 86, contador: 287
+hola soy 98142, vuelta: 87, contador: 288
+hola soy 98142, vuelta: 88, contador: 289
+hola soy 98142, vuelta: 89, contador: 290
+hola soy 98142, vuelta: 90, contador: 291
+hola soy 98142, vuelta: 91, contador: 292
+hola soy 98142, vuelta: 92, contador: 293
+hola soy 98142, vuelta: 93, contador: 294
+hola soy 98142, vuelta: 94, contador: 295
+hola soy 98142, vuelta: 95, contador: 296
+hola soy 98142, vuelta: 96, contador: 297
+hola soy 98142, vuelta: 97, contador: 298
+hola soy 98142, vuelta: 98, contador: 299
+hola soy 98142, vuelta: 99, contador: 300
+hola soy 98146, vuelta: 0, contador: 301
+hola soy 98146, vuelta: 1, contador: 302
+hola soy 98146, vuelta: 2, contador: 303
+hola soy 98146, vuelta: 3, contador: 304
+hola soy 98146, vuelta: 4, contador: 305
+hola soy 98146, vuelta: 5, contador: 306
+hola soy 98146, vuelta: 6, contador: 307
+hola soy 98146, vuelta: 7, contador: 308
+hola soy 98146, vuelta: 8, contador: 309
+hola soy 98146, vuelta: 9, contador: 310
+hola soy 98146, vuelta: 10, contador: 311
+hola soy 98146, vuelta: 11, contador: 312
+hola soy 98146, vuelta: 12, contador: 313
+hola soy 98146, vuelta: 13, contador: 314
+hola soy 98146, vuelta: 14, contador: 315
+hola soy 98146, vuelta: 15, contador: 316
+hola soy 98146, vuelta: 16, contador: 317
+hola soy 98146, vuelta: 17, contador: 318
+hola soy 98146, vuelta: 18, contador: 319
+hola soy 98146, vuelta: 19, contador: 320
+hola soy 98146, vuelta: 20, contador: 321
+hola soy 98146, vuelta: 21, contador: 322
+hola soy 98146, vuelta: 22, contador: 323
+hola soy 98146, vuelta: 23, contador: 324
+hola soy 98146, vuelta: 24, contador: 325
+hola soy 98146, vuelta: 25, contador: 326
+hola soy 98146, vuelta: 26, contador: 327
+hola soy 98146, vuelta: 27, contador: 328
+hola soy 98146, vuelta: 28, contador: 329
+hola soy 98146, vuelta: 29, contador: 330
+hola soy 98146, vuelta: 30, contador: 331
+hola soy 98146, vuelta: 31, contador: 332
+hola soy 98146, vuelta: 32, contador: 333
+hola soy 98146, vuelta: 33, contador: 334
+hola soy 98146, vuelta: 34, contador: 335
+hola soy 98146, vuelta: 35, contador: 336
+hola soy 98146, vuelta: 36, contador: 337
+hola soy 98146, vuelta: 37, contador: 338
+hola soy 98146, vuelta: 38, contador: 339
+hola soy 98146, vuelta: 39, contador: 340
+hola soy 98146, vuelta: 40, contador: 341
+hola soy 98146, vuelta: 41, contador: 342
+hola soy 98146, vuelta: 42, contador: 343
+hola soy 98146, vuelta: 43, contador: 344
+hola soy 98146, vuelta: 44, contador: 345
+hola soy 98146, vuelta: 45, contador: 346
+hola soy 98146, vuelta: 46, contador: 347
+hola soy 98146, vuelta: 47, contador: 348
+hola soy 98146, vuelta: 48, contador: 349
+hola soy 98146, vuelta: 49, contador: 350
+hola soy 98146, vuelta: 50, contador: 351
+hola soy 98146, vuelta: 51, contador: 352
+hola soy 98146, vuelta: 52, contador: 353
+hola soy 98146, vuelta: 53, contador: 354
+hola soy 98146, vuelta: 54, contador: 355
+hola soy 98146, vuelta: 55, contador: 356
+hola soy 98146, vuelta: 56, contador: 357
+hola soy 98146, vuelta: 57, contador: 358
+hola soy 98146, vuelta: 58, contador: 359
+hola soy 98144, vuelta: 0, contador: 359
+hola soy 98146, vuelta: 59, contador: 360
+hola soy 98144, vuelta: 1, contador: 361
+hola soy 98144, vuelta: 2, contador: 362
+hola soy 98144, vuelta: 3, contador: 364
+hola soy 98144, vuelta: 4, contador: 365
+hola soy 98144, vuelta: 5, contador: 366
+hola soy 98146, vuelta: 60, contador: 366
+hola soy 98144, vuelta: 6, contador: 367
+hola soy 98144, vuelta: 7, contador: 368
+hola soy 98146, vuelta: 61, contador: 369
+hola soy 98144, vuelta: 8, contador: 370
+hola soy 98144, vuelta: 9, contador: 371
+hola soy 98146, vuelta: 62, contador: 372
+hola soy 98146, vuelta: 63, contador: 374
+hola soy 98144, vuelta: 10, contador: 374
+hola soy 98146, vuelta: 64, contador: 375
+hola soy 98146, vuelta: 65, contador: 376
+hola soy 98146, vuelta: 66, contador: 377
+hola soy 98146, vuelta: 67, contador: 378
+hola soy 98144, vuelta: 11, contador: 377
+hola soy 98146, vuelta: 68, contador: 379
+hola soy 98146, vuelta: 69, contador: 380
+hola soy 98144, vuelta: 12, contador: 380
+hola soy 98146, vuelta: 70, contador: 381
+hola soy 98144, vuelta: 13, contador: 382
+hola soy 98146, vuelta: 71, contador: 382
+hola soy 98144, vuelta: 14, contador: 383
+hola soy 98146, vuelta: 72, contador: 383
+hola soy 98144, vuelta: 15, contador: 384
+hola soy 98146, vuelta: 73, contador: 384
+hola soy 98146, vuelta: 74, contador: 385
+hola soy 98144, vuelta: 16, contador: 385
+hola soy 98146, vuelta: 75, contador: 386
+hola soy 98144, vuelta: 17, contador: 386
+hola soy 98146, vuelta: 76, contador: 387
+hola soy 98144, vuelta: 18, contador: 387
+hola soy 98146, vuelta: 77, contador: 388
+hola soy 98144, vuelta: 19, contador: 388
+hola soy 98146, vuelta: 78, contador: 389
+hola soy 98144, vuelta: 20, contador: 390
+hola soy 98146, vuelta: 79, contador: 391
+hola soy 98144, vuelta: 21, contador: 392
+hola soy 98146, vuelta: 80, contador: 393
+hola soy 98144, vuelta: 22, contador: 394
+hola soy 98146, vuelta: 81, contador: 395
+hola soy 98144, vuelta: 23, contador: 396
+hola soy 98146, vuelta: 82, contador: 397
+hola soy 98144, vuelta: 24, contador: 398
+hola soy 98146, vuelta: 83, contador: 399
+hola soy 98145, vuelta: 0, contador: 400
+hola soy 98148, vuelta: 0, contador: 401
+hola soy 98147, vuelta: 0, contador: 402
+hola soy 98146, vuelta: 84, contador: 403
+hola soy 98144, vuelta: 25, contador: 404
+hola soy 98145, vuelta: 1, contador: 404
+hola soy 98148, vuelta: 1, contador: 404
+hola soy 98147, vuelta: 1, contador: 404
+hola soy 98146, vuelta: 85, contador: 405
+hola soy 98145, vuelta: 2, contador: 406
+hola soy 98144, vuelta: 26, contador: 406
+hola soy 98148, vuelta: 2, contador: 406
+hola soy 98147, vuelta: 2, contador: 406
+hola soy 98146, vuelta: 86, contador: 407
+hola soy 98145, vuelta: 3, contador: 408
+hola soy 98148, vuelta: 3, contador: 408
+hola soy 98144, vuelta: 27, contador: 408
+hola soy 98147, vuelta: 3, contador: 408
+hola soy 98146, vuelta: 87, contador: 410
+hola soy 98145, vuelta: 4, contador: 410
+hola soy 98148, vuelta: 4, contador: 411
+hola soy 98144, vuelta: 28, contador: 411
+hola soy 98147, vuelta: 4, contador: 411
+hola soy 98146, vuelta: 88, contador: 412
+hola soy 98145, vuelta: 5, contador: 412
+hola soy 98148, vuelta: 5, contador: 412
+hola soy 98144, vuelta: 29, contador: 413
+hola soy 98147, vuelta: 5, contador: 413
+hola soy 98146, vuelta: 89, contador: 414
+hola soy 98145, vuelta: 6, contador: 415
+hola soy 98148, vuelta: 6, contador: 415
+hola soy 98144, vuelta: 30, contador: 415
+hola soy 98147, vuelta: 6, contador: 415
+hola soy 98146, vuelta: 90, contador: 416
+hola soy 98145, vuelta: 7, contador: 416
+hola soy 98148, vuelta: 7, contador: 417
+hola soy 98144, vuelta: 31, contador: 417
+hola soy 98147, vuelta: 7, contador: 417
+hola soy 98146, vuelta: 91, contador: 418
+hola soy 98145, vuelta: 8, contador: 419
+hola soy 98148, vuelta: 8, contador: 419
+hola soy 98144, vuelta: 32, contador: 419
+hola soy 98147, vuelta: 8, contador: 419
+hola soy 98146, vuelta: 92, contador: 420
+hola soy 98145, vuelta: 9, contador: 421
+hola soy 98148, vuelta: 9, contador: 421
+hola soy 98144, vuelta: 33, contador: 421
+hola soy 98147, vuelta: 9, contador: 421
+hola soy 98146, vuelta: 93, contador: 422
+hola soy 98145, vuelta: 10, contador: 422
+hola soy 98148, vuelta: 10, contador: 423
+hola soy 98144, vuelta: 34, contador: 423
+hola soy 98147, vuelta: 10, contador: 423
+hola soy 98146, vuelta: 94, contador: 424
+hola soy 98145, vuelta: 11, contador: 424
+hola soy 98148, vuelta: 11, contador: 425
+hola soy 98144, vuelta: 35, contador: 425
+hola soy 98147, vuelta: 11, contador: 426
+hola soy 98146, vuelta: 95, contador: 426
+hola soy 98145, vuelta: 12, contador: 427
+hola soy 98148, vuelta: 12, contador: 427
+hola soy 98144, vuelta: 36, contador: 427
+hola soy 98147, vuelta: 12, contador: 428
+hola soy 98146, vuelta: 96, contador: 428
+hola soy 98145, vuelta: 13, contador: 429
+hola soy 98144, vuelta: 37, contador: 429
+hola soy 98148, vuelta: 13, contador: 429
+hola soy 98147, vuelta: 13, contador: 430
+hola soy 98146, vuelta: 97, contador: 431
+hola soy 98145, vuelta: 14, contador: 431
+hola soy 98144, vuelta: 38, contador: 431
+hola soy 98148, vuelta: 14, contador: 431
+hola soy 98147, vuelta: 14, contador: 432
+hola soy 98146, vuelta: 98, contador: 432
+hola soy 98144, vuelta: 39, contador: 433
+hola soy 98145, vuelta: 15, contador: 433
+hola soy 98148, vuelta: 15, contador: 433
+hola soy 98147, vuelta: 15, contador: 434
+hola soy 98146, vuelta: 99, contador: 434
+hola soy 98144, vuelta: 40, contador: 435
+hola soy 98145, vuelta: 16, contador: 435
+hola soy 98148, vuelta: 16, contador: 435
+hola soy 98147, vuelta: 16, contador: 436
+hola soy 98144, vuelta: 41, contador: 437
+hola soy 98148, vuelta: 17, contador: 437
+hola soy 98145, vuelta: 17, contador: 437
+hola soy 98147, vuelta: 17, contador: 438
+hola soy 98144, vuelta: 42, contador: 439
+hola soy 98148, vuelta: 18, contador: 439
+hola soy 98145, vuelta: 18, contador: 439
+hola soy 98147, vuelta: 18, contador: 440
+hola soy 98144, vuelta: 43, contador: 441
+hola soy 98148, vuelta: 19, contador: 441
+hola soy 98145, vuelta: 19, contador: 441
+hola soy 98147, vuelta: 19, contador: 442
+hola soy 98144, vuelta: 44, contador: 443
+hola soy 98148, vuelta: 20, contador: 443
+hola soy 98145, vuelta: 20, contador: 443
+hola soy 98147, vuelta: 20, contador: 444
+hola soy 98144, vuelta: 45, contador: 445
+hola soy 98148, vuelta: 21, contador: 445
+hola soy 98145, vuelta: 21, contador: 445
+hola soy 98147, vuelta: 21, contador: 446
+hola soy 98144, vuelta: 46, contador: 447
+hola soy 98145, vuelta: 22, contador: 447
+hola soy 98148, vuelta: 22, contador: 447
+hola soy 98147, vuelta: 22, contador: 448
+hola soy 98144, vuelta: 47, contador: 449
+hola soy 98148, vuelta: 23, contador: 449
+hola soy 98145, vuelta: 23, contador: 449
+hola soy 98147, vuelta: 23, contador: 451
+hola soy 98144, vuelta: 48, contador: 451
+hola soy 98148, vuelta: 24, contador: 451
+hola soy 98145, vuelta: 24, contador: 451
+hola soy 98147, vuelta: 24, contador: 452
+hola soy 98144, vuelta: 49, contador: 453
+hola soy 98145, vuelta: 25, contador: 453
+hola soy 98148, vuelta: 25, contador: 453
+hola soy 98147, vuelta: 25, contador: 454
+hola soy 98144, vuelta: 50, contador: 455
+hola soy 98148, vuelta: 26, contador: 455
+hola soy 98145, vuelta: 26, contador: 455
+hola soy 98147, vuelta: 26, contador: 456
+hola soy 98144, vuelta: 51, contador: 457
+hola soy 98145, vuelta: 27, contador: 457
+hola soy 98148, vuelta: 27, contador: 457
+hola soy 98147, vuelta: 27, contador: 458
+hola soy 98145, vuelta: 28, contador: 459
+hola soy 98144, vuelta: 52, contador: 459
+hola soy 98148, vuelta: 28, contador: 459
+hola soy 98147, vuelta: 28, contador: 460
+hola soy 98145, vuelta: 29, contador: 461
+hola soy 98144, vuelta: 53, contador: 461
+hola soy 98148, vuelta: 29, contador: 461
+hola soy 98147, vuelta: 29, contador: 462
+hola soy 98144, vuelta: 54, contador: 463
+hola soy 98145, vuelta: 30, contador: 463
+hola soy 98148, vuelta: 30, contador: 463
+hola soy 98147, vuelta: 30, contador: 464
+hola soy 98145, vuelta: 31, contador: 464
+hola soy 98144, vuelta: 55, contador: 465
+hola soy 98148, vuelta: 31, contador: 465
+hola soy 98147, vuelta: 31, contador: 466
+hola soy 98144, vuelta: 56, contador: 467
+hola soy 98145, vuelta: 32, contador: 467
+hola soy 98148, vuelta: 32, contador: 467
+hola soy 98147, vuelta: 32, contador: 468
+hola soy 98144, vuelta: 57, contador: 469
+hola soy 98145, vuelta: 33, contador: 469
+hola soy 98148, vuelta: 33, contador: 469
+hola soy 98147, vuelta: 33, contador: 470
+hola soy 98145, vuelta: 34, contador: 471
+hola soy 98144, vuelta: 58, contador: 471
+hola soy 98148, vuelta: 34, contador: 471
+hola soy 98147, vuelta: 34, contador: 472
+hola soy 98145, vuelta: 35, contador: 472
+hola soy 98144, vuelta: 59, contador: 473
+hola soy 98148, vuelta: 35, contador: 473
+hola soy 98147, vuelta: 35, contador: 474
+hola soy 98145, vuelta: 36, contador: 474
+hola soy 98144, vuelta: 60, contador: 475
+hola soy 98148, vuelta: 36, contador: 475
+hola soy 98147, vuelta: 36, contador: 476
+hola soy 98145, vuelta: 37, contador: 477
+hola soy 98144, vuelta: 61, contador: 477
+hola soy 98148, vuelta: 37, contador: 477
+hola soy 98147, vuelta: 37, contador: 478
+hola soy 98145, vuelta: 38, contador: 478
+hola soy 98148, vuelta: 38, contador: 479
+hola soy 98144, vuelta: 62, contador: 479
+hola soy 98147, vuelta: 38, contador: 480
+hola soy 98145, vuelta: 39, contador: 481
+hola soy 98148, vuelta: 39, contador: 481
+hola soy 98144, vuelta: 63, contador: 481
+hola soy 98147, vuelta: 39, contador: 482
+hola soy 98145, vuelta: 40, contador: 482
+hola soy 98148, vuelta: 40, contador: 482
+hola soy 98144, vuelta: 64, contador: 483
+hola soy 98147, vuelta: 40, contador: 484
+hola soy 98145, vuelta: 41, contador: 484
+hola soy 98148, vuelta: 41, contador: 484
+hola soy 98144, vuelta: 65, contador: 486
+hola soy 98145, vuelta: 42, contador: 486
+hola soy 98147, vuelta: 41, contador: 486
+hola soy 98148, vuelta: 42, contador: 486
+hola soy 98144, vuelta: 66, contador: 487
+hola soy 98145, vuelta: 43, contador: 488
+hola soy 98147, vuelta: 42, contador: 488
+hola soy 98148, vuelta: 43, contador: 488
+hola soy 98144, vuelta: 67, contador: 489
+hola soy 98145, vuelta: 44, contador: 490
+hola soy 98148, vuelta: 44, contador: 490
+hola soy 98147, vuelta: 43, contador: 490
+hola soy 98144, vuelta: 68, contador: 491
+hola soy 98148, vuelta: 45, contador: 492
+hola soy 98145, vuelta: 45, contador: 493
+hola soy 98147, vuelta: 44, contador: 493
+hola soy 98144, vuelta: 69, contador: 493
+hola soy 98148, vuelta: 46, contador: 495
+hola soy 98145, vuelta: 46, contador: 495
+hola soy 98147, vuelta: 45, contador: 495
+hola soy 98144, vuelta: 70, contador: 495
+hola soy 98148, vuelta: 47, contador: 496
+hola soy 98145, vuelta: 47, contador: 497
+hola soy 98147, vuelta: 46, contador: 497
+hola soy 98144, vuelta: 71, contador: 497
+hola soy 98148, vuelta: 48, contador: 498
+hola soy 98145, vuelta: 48, contador: 498
+hola soy 98147, vuelta: 47, contador: 498
+hola soy 98144, vuelta: 72, contador: 498
+hola soy 98148, vuelta: 49, contador: 499
+hola soy 98145, vuelta: 49, contador: 499
+hola soy 98147, vuelta: 48, contador: 499
+hola soy 98144, vuelta: 73, contador: 499
+hola soy 98145, vuelta: 50, contador: 500
+hola soy 98148, vuelta: 50, contador: 500
+hola soy 98147, vuelta: 49, contador: 500
+hola soy 98144, vuelta: 74, contador: 500
+hola soy 98148, vuelta: 51, contador: 501
+hola soy 98145, vuelta: 51, contador: 501
+hola soy 98147, vuelta: 50, contador: 501
+hola soy 98144, vuelta: 75, contador: 501
+hola soy 98145, vuelta: 52, contador: 502
+hola soy 98148, vuelta: 52, contador: 502
+hola soy 98144, vuelta: 76, contador: 502
+hola soy 98147, vuelta: 51, contador: 502
+hola soy 98145, vuelta: 53, contador: 503
+hola soy 98144, vuelta: 77, contador: 503
+hola soy 98148, vuelta: 53, contador: 503
+hola soy 98147, vuelta: 52, contador: 503
+hola soy 98145, vuelta: 54, contador: 505
+hola soy 98148, vuelta: 54, contador: 505
+hola soy 98144, vuelta: 78, contador: 505
+hola soy 98147, vuelta: 53, contador: 505
+hola soy 98145, vuelta: 55, contador: 506
+hola soy 98148, vuelta: 55, contador: 507
+hola soy 98144, vuelta: 79, contador: 507
+hola soy 98147, vuelta: 54, contador: 507
+hola soy 98145, vuelta: 56, contador: 508
+hola soy 98148, vuelta: 56, contador: 508
+hola soy 98144, vuelta: 80, contador: 508
+hola soy 98147, vuelta: 55, contador: 508
+hola soy 98145, vuelta: 57, contador: 509
+hola soy 98144, vuelta: 81, contador: 509
+hola soy 98148, vuelta: 57, contador: 510
+hola soy 98147, vuelta: 56, contador: 510
+hola soy 98144, vuelta: 82, contador: 511
+hola soy 98145, vuelta: 58, contador: 511
+hola soy 98148, vuelta: 58, contador: 512
+hola soy 98147, vuelta: 57, contador: 512
+hola soy 98144, vuelta: 83, contador: 513
+hola soy 98145, vuelta: 59, contador: 513
+hola soy 98148, vuelta: 59, contador: 514
+hola soy 98147, vuelta: 58, contador: 514
+hola soy 98144, vuelta: 84, contador: 515
+hola soy 98145, vuelta: 60, contador: 515
+hola soy 98147, vuelta: 59, contador: 516
+hola soy 98148, vuelta: 60, contador: 516
+hola soy 98144, vuelta: 85, contador: 517
+hola soy 98145, vuelta: 61, contador: 517
+hola soy 98147, vuelta: 60, contador: 518
+hola soy 98148, vuelta: 61, contador: 518
+hola soy 98144, vuelta: 86, contador: 519
+hola soy 98145, vuelta: 62, contador: 519
+hola soy 98147, vuelta: 61, contador: 520
+hola soy 98148, vuelta: 62, contador: 520
+hola soy 98144, vuelta: 87, contador: 521
+hola soy 98145, vuelta: 63, contador: 521
+hola soy 98147, vuelta: 62, contador: 522
+hola soy 98148, vuelta: 63, contador: 522
+hola soy 98145, vuelta: 64, contador: 523
+hola soy 98144, vuelta: 88, contador: 523
+hola soy 98147, vuelta: 63, contador: 524
+hola soy 98148, vuelta: 64, contador: 524
+hola soy 98145, vuelta: 65, contador: 525
+hola soy 98144, vuelta: 89, contador: 525
+hola soy 98147, vuelta: 64, contador: 526
+hola soy 98148, vuelta: 65, contador: 526
+hola soy 98145, vuelta: 66, contador: 527
+hola soy 98144, vuelta: 90, contador: 527
+hola soy 98147, vuelta: 65, contador: 528
+hola soy 98148, vuelta: 66, contador: 528
+hola soy 98145, vuelta: 67, contador: 529
+hola soy 98144, vuelta: 91, contador: 529
+hola soy 98147, vuelta: 66, contador: 530
+hola soy 98148, vuelta: 67, contador: 530
+hola soy 98144, vuelta: 92, contador: 531
+hola soy 98145, vuelta: 68, contador: 531
+hola soy 98148, vuelta: 68, contador: 532
+hola soy 98147, vuelta: 67, contador: 532
+hola soy 98144, vuelta: 93, contador: 533
+hola soy 98145, vuelta: 69, contador: 533
+hola soy 98147, vuelta: 68, contador: 534
+hola soy 98148, vuelta: 69, contador: 534
+hola soy 98144, vuelta: 94, contador: 535
+hola soy 98145, vuelta: 70, contador: 535
+hola soy 98147, vuelta: 69, contador: 536
+hola soy 98148, vuelta: 70, contador: 536
+hola soy 98144, vuelta: 95, contador: 537
+hola soy 98145, vuelta: 71, contador: 537
+hola soy 98147, vuelta: 70, contador: 538
+hola soy 98148, vuelta: 71, contador: 538
+hola soy 98144, vuelta: 96, contador: 539
+hola soy 98145, vuelta: 72, contador: 539
+hola soy 98147, vuelta: 71, contador: 540
+hola soy 98148, vuelta: 72, contador: 540
+hola soy 98144, vuelta: 97, contador: 541
+hola soy 98145, vuelta: 73, contador: 542
+hola soy 98147, vuelta: 72, contador: 542
+hola soy 98148, vuelta: 73, contador: 542
+hola soy 98144, vuelta: 98, contador: 543
+hola soy 98147, vuelta: 73, contador: 543
+hola soy 98145, vuelta: 74, contador: 543
+hola soy 98148, vuelta: 74, contador: 544
+hola soy 98147, vuelta: 74, contador: 545
+hola soy 98144, vuelta: 99, contador: 545
+hola soy 98145, vuelta: 75, contador: 545
+hola soy 98147, vuelta: 75, contador: 546
+hola soy 98148, vuelta: 75, contador: 547
+hola soy 98147, vuelta: 76, contador: 548
+hola soy 98147, vuelta: 77, contador: 549
+hola soy 98148, vuelta: 76, contador: 550
+hola soy 98147, vuelta: 78, contador: 551
+hola soy 98147, vuelta: 79, contador: 553
+hola soy 98148, vuelta: 77, contador: 552
+hola soy 98145, vuelta: 76, contador: 547
+hola soy 98147, vuelta: 80, contador: 554
+hola soy 98148, vuelta: 78, contador: 554
+hola soy 98145, vuelta: 77, contador: 555
+hola soy 98147, vuelta: 81, contador: 555
+hola soy 98148, vuelta: 79, contador: 556
+hola soy 98147, vuelta: 82, contador: 557
+hola soy 98145, vuelta: 78, contador: 557
+hola soy 98148, vuelta: 80, contador: 558
+hola soy 98147, vuelta: 83, contador: 558
+hola soy 98148, vuelta: 81, contador: 559
+hola soy 98147, vuelta: 84, contador: 559
+hola soy 98148, vuelta: 82, contador: 560
+hola soy 98147, vuelta: 85, contador: 561
+hola soy 98147, vuelta: 86, contador: 562
+hola soy 98147, vuelta: 87, contador: 564
+hola soy 98148, vuelta: 83, contador: 564
+hola soy 98145, vuelta: 79, contador: 564
+hola soy 98147, vuelta: 88, contador: 565
+hola soy 98148, vuelta: 84, contador: 565
+hola soy 98147, vuelta: 89, contador: 566
+hola soy 98145, vuelta: 80, contador: 566
+hola soy 98147, vuelta: 90, contador: 567
+hola soy 98147, vuelta: 91, contador: 568
+hola soy 98147, vuelta: 92, contador: 569
+hola soy 98148, vuelta: 85, contador: 569
+hola soy 98147, vuelta: 93, contador: 570
+hola soy 98148, vuelta: 86, contador: 571
+hola soy 98147, vuelta: 94, contador: 572
+hola soy 98145, vuelta: 81, contador: 572
+hola soy 98148, vuelta: 87, contador: 573
+hola soy 98147, vuelta: 95, contador: 574
+hola soy 98145, vuelta: 82, contador: 574
+hola soy 98147, vuelta: 96, contador: 575
+hola soy 98148, vuelta: 88, contador: 575
+hola soy 98147, vuelta: 97, contador: 576
+hola soy 98147, vuelta: 98, contador: 578
+hola soy 98148, vuelta: 89, contador: 577
+hola soy 98147, vuelta: 99, contador: 579
+hola soy 98148, vuelta: 90, contador: 580
+hola soy 98148, vuelta: 91, contador: 581
+hola soy 98148, vuelta: 92, contador: 582
+hola soy 98148, vuelta: 93, contador: 583
+hola soy 98148, vuelta: 94, contador: 584
+hola soy 98148, vuelta: 95, contador: 585
+hola soy 98148, vuelta: 96, contador: 586
+hola soy 98148, vuelta: 97, contador: 587
+hola soy 98148, vuelta: 98, contador: 588
+hola soy 98145, vuelta: 83, contador: 589
+hola soy 98145, vuelta: 84, contador: 590
+hola soy 98148, vuelta: 99, contador: 589
+hola soy 98145, vuelta: 85, contador: 591
+hola soy 98145, vuelta: 86, contador: 592
+hola soy 98145, vuelta: 87, contador: 593
+hola soy 98145, vuelta: 88, contador: 594
+hola soy 98145, vuelta: 89, contador: 595
+hola soy 98145, vuelta: 90, contador: 596
+hola soy 98145, vuelta: 91, contador: 597
+hola soy 98145, vuelta: 92, contador: 598
+hola soy 98145, vuelta: 93, contador: 599
+hola soy 98145, vuelta: 94, contador: 600
+hola soy 98145, vuelta: 95, contador: 601
+hola soy 98145, vuelta: 96, contador: 602
+hola soy 98145, vuelta: 97, contador: 603
+hola soy 98145, vuelta: 98, contador: 604
+hola soy 98145, vuelta: 99, contador: 605
+adios
+Valor final del contador 605
+fin
+bash-3.2$ git commit -m "programa5"
+[main 4d31f1c] programa5
+ Committer: Francisco Mas <framas@MBPdeFrancisco2.home>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 35 insertions(+)
+ create mode 100644 programa5.py
+bash-3.2$ git push 
+Enter passphrase for key '/Users/framas/.ssh/id_rsa': 
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects:  33% (1/3)   Compressing objects:  66% (2/3)   Compressing objects: 100% (3/3)   Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 654 bytes | 654.00 KiB/s, done.
+Total 3 (delta 1), reused 1 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:marinmas/marinamas1.git
+   c606d44..4d31f1c  main -> main
+bash-3.2$ exit
+
+Script done on Fri Feb  4 11:39:58 2022
+
